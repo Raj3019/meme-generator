@@ -2,8 +2,6 @@
 
 A premium, AI-powered meme generator that uses **Groq** for hilarious captions and **Stability AI** for unique, expressive reaction images.
 
-![Meme Generator UI](https://raw.githubusercontent.com/username/repo/main/screenshot.png) *(Note: Placeholder for actual screenshot)*
-
 ## ✨ Features
 
 - 🧠 **Groq-Powered Captions**: Uses Llama 3.3 70B to generate modern, funny setup-punchline memes.
