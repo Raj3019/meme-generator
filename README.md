@@ -1,4 +1,4 @@
-c# 🎭 Meme Generator AI
+# 🎭 Meme Generator AI
 
 A premium, AI-powered meme generator that uses **Groq** for hilarious captions and **Stability AI** for unique, expressive reaction images.
 
